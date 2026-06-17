@@ -11,10 +11,10 @@ Sistema de consola desarrollado en Python que permite gestionar información sob
 
 ## Integrantes
 
-| Nombre |
-|--------|
-| Basaure Mauricio Ariel | 
-| [Nombre Integrante 2] | 
+| Nombre | | Legajo|
+|--------| |--------|
+| Basaure Mauricio Ariel | | 43112670 |
+| Lucas Gastón Guirao | | 39936948 |
 ---
 
 ## Estructura del Proyecto
