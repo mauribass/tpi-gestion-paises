@@ -145,7 +145,7 @@ Brasil,213993437,8515767,América
 ## Enlaces
 
 - **Repositorio:** https://github.com/mauribass/tpi-gestion-paises
-- **Video demostrativo:** [Insertar URL del video]
+- **Video demostrativo:** https://www.youtube.com/watch?v=1xvY2PcF5-o
 ---
 
 ## Tecnologías utilizadas
