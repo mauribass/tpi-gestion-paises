@@ -11,8 +11,8 @@ Sistema de consola desarrollado en Python que permite gestionar información sob
 
 ## Integrantes
 
-| Nombre | Legajo |
-|--------|--------|
+| Nombre |
+|--------|
 | Basaure Mauricio Ariel | 
 | [Nombre Integrante 2] | 
 ---
