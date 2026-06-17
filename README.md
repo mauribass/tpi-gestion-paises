@@ -13,9 +13,8 @@ Sistema de consola desarrollado en Python que permite gestionar información sob
 
 | Nombre | Legajo |
 |--------|--------|
-| Basaure Mauricio Ariel | [Legajo] |
-| [Nombre Integrante 2] | [Legajo] |
-
+| Basaure Mauricio Ariel | 
+| [Nombre Integrante 2] | 
 ---
 
 ## Estructura del Proyecto
@@ -147,8 +146,6 @@ Brasil,213993437,8515767,América
 
 - **Repositorio:** https://github.com/mauribass/tpi-gestion-paises
 - **Video demostrativo:** [Insertar URL del video]
-- **Documentación PDF:** [Insertar URL o ver archivo en la raíz del repositorio]
-
 ---
 
 ## Tecnologías utilizadas
